@@ -1,0 +1,36 @@
+glyphname resources
+
+https://github.com/gbjk/arabic2ps/
+
+  Perl script handling glyphnames for Arabic
+  uses Adobe glyph names and HP PCL
+
+
+https://github.com/LettError/glyphBrowser
+
+   GUI tool for lookup
+   
+https://github.com/LettError/glyphNameFormatter
+
+   generates glyph name lists from official Unicode data
+
+https://github.com/gitpan/Font-GlyphNames
+
+   Perl module on CPAN
+   uses Adobe glyph names
+
+
+
+# Source of Glyph names:
+# http://www.adobe.com/devnet/opentype/archives/glyph.html
+
+# Source of HP PCL conversions:
+# http://www.hp.com/cposupport/printers/support_doc/bpl02705.html ###  broken link
+
+--> https://developers.hp.com/system/files/PJL_Technical_Reference_Manual.pdf
+
+HP PCL 5 Printer Language Technical Reference Manual Part I
+--> http://www.hp.com/ctg/Manual/bpl13210.pdf
+
+HP PCL 5 Printer Language Technical Reference Manual Part II
+--> http://www.hp.com/ctg/Manual/bpl13211.pdf

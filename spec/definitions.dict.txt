@@ -1,0 +1,37 @@
+# spec/definitions.dict.txt
+#
+# file format: dict
+# encoding: UTF-8 without BOM
+# 
+# comments:
+#   lines beginning with # are comments and can be ignored
+#
+# keywords:
+#   lines beginning with a printable character are keywords
+#   trailing whitespace should be ignored
+#   regular expression: '^\S'
+#
+# definitions:
+#   lines beginning with whitespace (indented)
+#   definitions can be empty
+#   definitions end with the next keyword
+#   trailing whitespace should be ignored
+#   empty lines should be included to allow more than one paragraph
+#   empty lines at begin or end of a definition should be ignored
+#   regular expression: '^(\s|\n)'
+#
+font
+  a collection of characters and their associated glyphs
+  
+font format
+  a specified structure of a font
+  
+  Typical font formats are TTF, OTF, but more convenient formats during font making
+  
+glyph
+  technical definition in the scope of fonts
+  https://en.wikipedia.org/wiki/Glyph
+  
+glyph ID
+  also GID
+  numeric ID within a font
