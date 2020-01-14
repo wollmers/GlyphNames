@@ -23,10 +23,13 @@
 font
   a collection of characters and their associated glyphs
   
+font file
+  a deliverable and installable font
+  
 font format
   a specified structure of a font
   
-  Typical font formats are TTF, OTF, but more convenient formats during font making
+  Typical font formats are TTF, OTF, but also more convenient formats during font making
   
 glyph
   technical definition in the scope of fonts
@@ -35,3 +38,6 @@ glyph
 glyph ID
   also GID
   numeric ID within a font
+  
+OpenType
+  

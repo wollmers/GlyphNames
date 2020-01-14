@@ -22,7 +22,7 @@ https://github.com/gitpan/Font-GlyphNames
 
 
 # Source of Glyph names:
-# http://www.adobe.com/devnet/opentype/archives/glyph.html
+# http://www.adobe.com/devnet/opentype/archives/glyph.html ###  broken link
 
 # Source of HP PCL conversions:
 # http://www.hp.com/cposupport/printers/support_doc/bpl02705.html ###  broken link
